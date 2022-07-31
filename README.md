@@ -1,2 +1,2 @@
 # graduated_PJ
-My graduated Project 
+This is My graduated Project about Ecommerce Website Online marketing 
